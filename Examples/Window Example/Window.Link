@@ -1,1 +1,10 @@
-; Give it a type TEMP and a creator of ????; /Type 'TEMP' '????';Window.rel contains the code.Window/Include Window.rsrc;All done/End			
+; Give it a type TEMP and a creator of ????
+; /Type 'TEMP' '????'
+
+;Window.rel contains the code.
+Window
+
+/Include Window.rsrc
+
+;All done
+/End			

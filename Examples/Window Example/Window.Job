@@ -1,1 +1,5 @@
-ASM	Window.Asm	Exec	EditRMAKER	Window.R	Exec	EditLINK	Window.Link	Window	Edit
+
+ASM	Window.Asm	Exec	Edit
+RMAKER	Window.R	Exec	Edit
+LINK	Window.Link	Window	Edit
+

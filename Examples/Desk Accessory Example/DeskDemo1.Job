@@ -1,1 +1,5 @@
-ASM	DeskDemo1.Asm	Exec	EditLINK	DeskDemo1.Link	Exec	EditRMAKER	DeskDemo1.R	Exec	Edit
+
+
+ASM	DeskDemo1.Asm	Exec	Edit
+LINK	DeskDemo1.Link	Exec	Edit
+RMAKER	DeskDemo1.R	Exec	Edit

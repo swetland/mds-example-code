@@ -1,1 +1,13 @@
-; Output will be called Sample (by default).; First get the three Rel files.SampleSampMenuSampCont; Now include the resources./Include Sample.rsrc; All done./End
+; Output will be called Sample (by default).
+
+
+; First get the three Rel files.
+Sample
+SampMenu
+SampCont
+
+; Now include the resources.
+/Include Sample.rsrc
+
+; All done.
+/End

@@ -1,1 +1,10 @@
-;Output file is called TestPrint (by default).; Link the main Rel file.TestPrint; Link with the predefined print routines.PrintCalls; All done./END
+;Output file is called TestPrint (by default).
+
+; Link the main Rel file.
+TestPrint
+
+; Link with the predefined print routines.
+PrintCalls
+
+; All done.
+/END
